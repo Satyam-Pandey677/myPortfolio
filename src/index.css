@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+
+*{
+  font-family:"Share Tech" ;
+}
+
+.nav li{
+  list-style: none;
+  font-size: 25px;
+}
+
+.text-type {
+  display: inline-block;
+  white-space: pre-wrap;
+}
+
+.text-type__cursor {
+  margin-left: 0.25rem;
+  display: inline-block;
+  opacity: 1;
+}
+
+.text-type__cursor--hidden {
+  display: none;
+}
