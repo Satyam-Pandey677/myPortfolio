@@ -10,7 +10,7 @@ import { FaInstagram, FaLinkedin } from "react-icons/fa";
 
 const Home = () => {
   return (
-     <div className="container mx-auto px-4 md:px-10">
+     <div className="container mx-auto px-4 md:px-10 pt-40" id="home">
       <div className="flex flex-col lg:flex-row items-center justify-center my-10 gap-10">
         {/* Profile Image */}
         <img

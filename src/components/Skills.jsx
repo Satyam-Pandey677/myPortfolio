@@ -20,7 +20,7 @@ const Skills = () => {
   ];
 
   return (
-    <div className="my-20 container mx-auto">
+    <div className="my-20 container mx-auto" id="skill">
       <h2 className="text-4xl font-bold text-center mb-10">🚀 My Skills</h2>
 
       <div className="relative overflow-hidden">

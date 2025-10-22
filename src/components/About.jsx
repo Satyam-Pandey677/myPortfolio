@@ -17,7 +17,7 @@ const About = () => {
   }, [])
 
   return (
-    <section className="container mx-auto my-16 px-6 md:px-12">
+    <section className="container mx-auto my-16 px-6 md:px-12" id='about'>
       <motion.div
         initial={{ opacity: 0, y: 50 }}
         whileInView={{ opacity: 1, y: 0 }}

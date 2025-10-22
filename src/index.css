@@ -3,6 +3,7 @@
 
 *{
   font-family:"Share Tech" ;
+  scroll-behavior: smooth;
 }
 
 .nav li{
